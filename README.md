@@ -1,4 +1,4 @@
-Collection of plots via ggplots
+Data Exploration
 ================
 Jiaqi Yin
 07 May, 2019
